@@ -2,5 +2,6 @@
 
 source "https://rubygems.org"
 
-gemspec
-gem "minima"
+# gem "rails"
+
+gem "rspec", "~> 3.11"
