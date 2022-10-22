@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Manual file retrieval"
+permalink: /Wiki/Manual-file-retrieval/
 categories: wiki
 ---
 
