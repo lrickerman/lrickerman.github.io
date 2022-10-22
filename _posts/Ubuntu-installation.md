@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Ubuntu installation"
 categories: wiki
 ---
@@ -9,7 +9,10 @@ categories: wiki
 > ![command_prompt](https://user-images.githubusercontent.com/62037577/195848020-e372fbbe-fc5b-49f0-b381-d8b0f7e65b19.png)
 
 2.	When command prompt opens, type in the following and hit enter:
-`wsl --install -d ubuntu`
+{% highlight ruby %}
+wsl --install -d ubuntu
+{% endhighlight %}
+
 3.	When installation is complete, type ‘`ubuntu`’ and hit enter.
  
 > ![ubuntu](https://user-images.githubusercontent.com/62037577/195848050-1474e021-7a1f-413b-858b-f6e4d67ebb31.png)

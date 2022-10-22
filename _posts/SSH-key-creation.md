@@ -1,11 +1,14 @@
 ---
-layout: post
+layout: page
 title: "SSH key creation"
 categories: wiki
 ---
 
 1.	To generate an SSH key, use the following command:
-`ssh-keygen -t rsa`
+{% highlight ruby %}
+ssh-keygen -t rsa
+{% endhighlight %}
+
 This will generate two keys, a public and private key. You can choose a location, or if you just hit enter on the prompt for where you want to save the key, it will save in the default location. You can also just hit enter for a passphrase if you do not want a passphrase (extra layer of security – not necessary).
  
 > ![ssh_key](https://user-images.githubusercontent.com/62037577/195848068-ee674ffb-c439-4cc7-9bc7-b85a72ebc817.png)
