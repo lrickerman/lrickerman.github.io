@@ -37,7 +37,7 @@ The [Wiki](./Home.md) includes instructions for [Ubuntu installation](./1-Ubuntu
  
  
 ## Download NYWWS.sh
-To download the script, navigate to [NYWWS.sh](https://github.com/lrickerman/NYWWS-Training/blob/main/NYWWS.sh) and click on 'Raw' to view the raw script. Right-click on the page once it has loaded and select 'Save as...' to save the script. Make sure it is in a place you can navigate to from WSL. It is recommended to move the file to your home directory.
+To download the script, <a href="NYWWS.sh">Click Here</a>. Make sure it is in a place you can navigate to from WSL. It is recommended to move the file to your home directory.
 
 * Ex. if NYWWS.sh is saved to your desktop, you can move it to your home directory with the following:
 
