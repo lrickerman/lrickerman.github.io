@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Manual file retrieval"
 categories: wiki
 ---

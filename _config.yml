@@ -4,3 +4,9 @@ author:
   email: lindsey.rickerman@health.ny.gov
 description: lindsey.rickerman@health.ny.gov
 theme: minima
+
+
+collections:
+  wiki:
+    output: true
+    permalink: /:collection/:title:output_ext
