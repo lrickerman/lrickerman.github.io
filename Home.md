@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Wiki"
+permalink: /Wiki/
 categories: wiki
 ---
 
