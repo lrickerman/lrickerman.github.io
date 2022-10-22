@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: NYWWS
 ---
 
@@ -24,7 +24,7 @@ The process includes the following:
  
 ### Wiki
 
-The [Wiki](./Home.md) includes instructions for [Ubuntu installation](./_posts/Ubuntu-installation.md), [Manual file retrieval](./_posts/Manual-file-retrieval.md), [SSH key creation](./_posts/SSH-key-creation.md), and [WSL data retrieval and transfer](./_posts/WSL-data-retrieval-and-transfer.md). These are alternatives to using the script.
+The [Wiki](./Home.md) includes instructions for [Ubuntu installation](./_posts/1-Ubuntu-installation.md), [Manual file retrieval](./_posts/0-Manual-file-retrieval.md), [SSH key creation](./_posts/2-SSH-key-creation.md), and [WSL data retrieval and transfer](./_posts/3-WSL-data-retrieval-and-transfer.md). These are alternatives to using the script.
  
  
 ### Dependencies
