@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 group :jekyll_plugins do
     gem 'jekyll'
-    gem 'minima'
+    gem 'github-pages'
     gem 'jekyll-diagrams'
     gem 'jekyll-imagemagick'
     gem 'jekyll-minifier'
