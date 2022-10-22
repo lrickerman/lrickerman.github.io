@@ -1,5 +1,5 @@
 title: Lindsey Rickerman
 description: lindsey.rickerman@health.ny.gov
-remote_theme: pages-themes/slate@v0.2.0
+theme: editorial_jekyll_theme
 plugins:
 - jekyll-remote-theme
