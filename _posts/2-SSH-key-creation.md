@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "SSH key creation"
+permalink: /Wiki/SSH-key-creation/
 categories: wiki
 ---
 

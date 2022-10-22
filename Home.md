@@ -9,10 +9,10 @@ Welcome to the NYWWS-Training wiki!
 
 Click the following links to navigate to the desired page:
 
-[Ubuntu installation](./_posts/Ubuntu-installation.md)
+[Ubuntu installation](./Ubuntu-installation.md)
 
-[Manual file retrieval](./_posts/Manual-file-retrieval.md)
+[Manual file retrieval](./Manual-file-retrieval.md)
 
-[SSH key creation](./_posts/SSH-key-creation.md)
+[SSH key creation](./SSH-key-creation.md)
 
-[WSL data retrieval and transfer](./_posts/WSL-data-retrieval-and-transfer.md)
+[WSL data retrieval and transfer](./WSL-data-retrieval-and-transfer.md)

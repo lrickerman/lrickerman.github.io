@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "WSL data retrieval and transfer"
+permalink: /Wiki/WSL-data-retrieval-transfer/
 categories: wiki
 ---
 

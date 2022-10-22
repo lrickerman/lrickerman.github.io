@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Ubuntu installation"
+permalink: /Wiki/Ubuntu-installation/
 categories: wiki
 ---
 
